@@ -1,0 +1,25 @@
+{
+  "name": "lightshop",
+  "version": "0.0.1",
+  "description": "lightshop engine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devs-n9/lightshop.git"
+  },
+  "author": "Nikolaenko Vladimir",
+  "license": "BSD-2-Clause",
+    "dependencies": {
+    "express": "~4.13.3",
+    "morgan": "~1.5.2",
+    "ejs": "latest",
+    "body-parser": "latest",
+    "mongoose": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/devs-n9/lightshop/issues"
+  }
+}
